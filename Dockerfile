@@ -1,4 +1,4 @@
-FROM unbuntu:14.04
+FROM ubuntu:14.04
 MAINTAINER "Chaenam Jeong <cnjeong@gmail.com>" # option 임
 LABEL "purpose"="webserver practice"
 RUN apt-get update
